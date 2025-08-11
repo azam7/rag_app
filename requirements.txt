@@ -1,0 +1,10 @@
+streamlit
+langchain
+sentence-transformers
+chromadb
+PyPDF2
+cx_Oracle
+pandas
+requests
+psycopg2
+pymongo
